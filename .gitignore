@@ -1,0 +1,5 @@
+*_backup
+*_old
+temp/
+Thumbus.db
+.DS_Store
